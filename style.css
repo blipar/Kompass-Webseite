@@ -1,0 +1,17 @@
+/* Basic styles for the NGO website */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 50px;
+}
+
+.logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+.contact {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
